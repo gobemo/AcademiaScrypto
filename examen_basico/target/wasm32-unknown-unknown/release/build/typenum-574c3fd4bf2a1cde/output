@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/gobemo/radixdlt-scrypto/examen_basico/target/wasm32-unknown-unknown/release/build/typenum-574c3fd4bf2a1cde/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/gobemo/radixdlt-scrypto/examen_basico/target/wasm32-unknown-unknown/release/build/typenum-574c3fd4bf2a1cde/out/op.rs

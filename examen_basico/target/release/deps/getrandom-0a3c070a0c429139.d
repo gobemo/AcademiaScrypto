@@ -1,0 +1,12 @@
+/Users/gobemo/radixdlt-scrypto/examen_basico/target/release/deps/getrandom-0a3c070a0c429139.rmeta: /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/gobemo/radixdlt-scrypto/examen_basico/target/release/deps/libgetrandom-0a3c070a0c429139.rlib: /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/gobemo/radixdlt-scrypto/examen_basico/target/release/deps/getrandom-0a3c070a0c429139.d: /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs:
+/Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs:
+/Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs:
+/Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs:
+/Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs:
+/Users/gobemo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs:
